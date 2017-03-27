@@ -1,4 +1,8 @@
-# AngularTesting
+# Angular Testing
+
+Angular Testing guide implementation (March 2017).
+
+<https://angular.io/docs/ts/latest/guide/testing.html>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
