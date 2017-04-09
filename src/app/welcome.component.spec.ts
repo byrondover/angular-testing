@@ -5,7 +5,7 @@ import { DebugElement } from '@angular/core';
 import { WelcomeComponent } from './welcome.component';
 import { UserService } from './model';
 
-describe('BannerComponent (inline template)', () => {
+describe('WelcomeComponent', () => {
 
   let comp: WelcomeComponent;
   let fixture: ComponentFixture<WelcomeComponent>;
